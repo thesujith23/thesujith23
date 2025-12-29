@@ -2,12 +2,14 @@
 
 # 💫 About Me:
 - 🔭 Working on full-stack web apps (Next.js, React, Node.js)
-- 🌱 Learning advanced Next.js & ML integration
+- 🌱 Learning Next.js & ML integration
 - 👯 Open to collaborating on MERN & AI projects
 - 💬 Ask me about React, Next.js, REST APIs
 - 📫 Reach me: sujith7344@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Design with No code
+- 💼 Portfolio: http://madebysujiii.framer.ai/
+  
 
   
 ## 🌐 Socials:
