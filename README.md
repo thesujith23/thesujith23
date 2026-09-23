@@ -2,14 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Sujiii%20%F0%9F%91%8B&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Integrations;Game+Dev+with+Unity+%26+C%23;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Integrations;Always+Learning+Something+New" alt="Typing SVG" />
 
 </div>
 
 # 💫 About Me:
 - 🔭 Working on full-stack web apps (Next.js, React, Node.js)
 - 🌱 Learning Next.js & ML integration
-- 🎮 Also enjoy game development with Unity & C#
 - 👯 Open to collaborating on MERN & AI projects
 - 💬 Ask me about React, Next.js, REST APIs
 - 📫 Reach me: sujith7344@gmail.com
