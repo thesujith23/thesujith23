@@ -41,7 +41,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thesujith23/thesujith23/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> ⚙️ This one needs a one-time setup: add the included `snake.yml` to `.github/workflows/` in your `thesujith23/thesujith23` repo, and under **Settings → Actions → General → Workflow permissions**, select "Read and write permissions." It'll rebuild the snake automatically every 12 hours.
+> ⚙️ The workflow is already configured in `.github/workflows/snake.yml`. It runs every 12 hours and can also be started manually from the **Actions** tab; the workflow declares the `contents: write` permission needed to publish the generated SVGs.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
