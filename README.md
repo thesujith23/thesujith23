@@ -14,7 +14,7 @@
 - 📫 Reach me: sujith7344@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Design n Code
-- 💼 Portfolio: http://madebysujiii.framer.ai/
+- 💼 Portfolio: http://portfolio-sujiii.vercel.app/
 
   
 
