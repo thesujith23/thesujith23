@@ -13,7 +13,7 @@
 - 💬 Ask me about React, Next.js, REST APIs
 - 📫 Reach me: sujith7344@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Design n Code
+- ⚡ Fun fact: I enjoy bringing design and code together.
 - 💼 Portfolio: http://portfolio-sujiii.vercel.app/
 
   
